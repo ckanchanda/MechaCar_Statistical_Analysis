@@ -16,8 +16,8 @@ MechaCar's >100 pounds per suare inch specifications. However, when examining th
 lot2 have variances of much less than 100 pounds, while lot3 has a variance of 170 which exceeeds the MechaCar's design 
 specs. Therefore the current manufacturing data meets the design specification for only Lots1 and Lots2, but not Lot3.
 
-![](total_summary.jpg)
-![](lot_summary.jpg)
+![](Resources/total_summary.JPG)
+![](Resources/lot_summary.JPG)
 ## T-Tests on Suspension Coils
 
 
