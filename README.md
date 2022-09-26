@@ -48,5 +48,5 @@ when buying a vehicle.
 * The preferred test when testing MechaCar's performance vs its competition would be a multiple linear regression test because 
 it allows analysts to test multiple variables, which is necessary for this portion of the analysis.
 
-*The data needed to run the statistical test would be samples of the cost, MPG, horse power, and maintenance cost for MechaCar 
+* The data needed to run the statistical test would be samples of the cost, MPG, horse power, and maintenance cost for MechaCar 
 and running the same metrics for its competitors. 
