@@ -20,7 +20,7 @@ specs. Therefore the current manufacturing data meets the design specification f
 ![](Resources/lot_summary.JPG)
 
 
-## T-Tests on Suspension Coils (summarize your interpretation and findings for the t-test results)
+## T-Tests on Suspension Coils
 * The first t-test has a sample collective mean of 1499 which is very similar to the other manufacturing lots, and a p-value 
 of .06 which is NOT enough evidence to support rejecting the null hypothesis and it falls within the 95% confidence level. 
 
